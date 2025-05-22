@@ -7,6 +7,8 @@
 <h3> Qompass AI on HTML </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-html)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/html/total?style=flat-square)
+
   <a href="https://developer.mozilla.org/docs/Web/HTML">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 </a>
