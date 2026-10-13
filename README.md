@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/HTML_Tutorials-green?style=flat-square" alt="HTML Tutorials">
 </a>
 <br>
-  <a href=\"./LICENSE\"><img src=\"https://img.shields.io/badge/License-Apache%202.0-blue.svg\" alt=\"License: Apache 2.0\"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache 2.0"></a>
 </p>
 
 
